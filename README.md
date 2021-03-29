@@ -1,3 +1,3 @@
 # Notas
 
-Este repositorio tiene respaldos de customHooks para ser reutilizados.
+Este repositorio tiene los respaldos de customHooks para ser reutilizados.

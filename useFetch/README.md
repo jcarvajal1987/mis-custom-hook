@@ -7,4 +7,4 @@ Ejemplo de uso:
     const { data: null, loading: true, error: null } = useFetch(url);
 ```
 
-useFetch() // recibe un valor por defecto que es 10
+useFetch() // recibe un valor url.
